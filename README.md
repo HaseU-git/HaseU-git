@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/yhasegaw?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![HaseU-git's 42 stats](https://badge42.herokuapp.com/api/stats/yhasegaw?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
+[![HaseU-git's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaseU-git)](https://github.com/anuraghazra/github-readme-stats)
